@@ -1,0 +1,11 @@
+D:\Programe C#\lloginApp\lloginApp\bin\Debug\lloginApp.exe.config
+D:\Programe C#\lloginApp\lloginApp\bin\Debug\lloginApp.exe
+D:\Programe C#\lloginApp\lloginApp\bin\Debug\lloginApp.pdb
+D:\Programe C#\lloginApp\lloginApp\obj\Debug\lloginApp.csproj.AssemblyReference.cache
+D:\Programe C#\lloginApp\lloginApp\obj\Debug\lloginApp.Form1.resources
+D:\Programe C#\lloginApp\lloginApp\obj\Debug\lloginApp.Properties.Resources.resources
+D:\Programe C#\lloginApp\lloginApp\obj\Debug\lloginApp.csproj.GenerateResource.cache
+D:\Programe C#\lloginApp\lloginApp\obj\Debug\lloginApp.csproj.CoreCompileInputs.cache
+D:\Programe C#\lloginApp\lloginApp\obj\Debug\lloginApp.exe
+D:\Programe C#\lloginApp\lloginApp\obj\Debug\lloginApp.pdb
+D:\Programe C#\lloginApp\lloginApp\obj\Debug\lloginApp.Aplicatie.resources
