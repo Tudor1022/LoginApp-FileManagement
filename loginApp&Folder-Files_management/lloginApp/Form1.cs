@@ -181,9 +181,9 @@ namespace lloginApp
 
                     string mesaj = "Your new password is " + GeneraParola(5);
 
-                    var fromAddress = new MailAddress("ptudor68@gmail.com", "App developer");
+                    var fromAddress = new MailAddress("add sender emaul", "App developer");
                     var toAddress = new MailAddress(email, "Utlizator");
-                    const string fromPassword = "alye djwe djdr ourb";
+                    const string fromPassword = "add password to the email";
                     const string subject = "Forgotten password";
                     string body = mesaj;
 
